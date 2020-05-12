@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\bin\Debug\CH05_CA_ClassDsp2.exe.config
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\bin\Debug\CH05_CA_ClassDsp2.exe
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\bin\Debug\CH05_CA_ClassDsp2.pdb
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\obj\Debug\CH05_CA_ClassDsp2.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\obj\Debug\CH05_CA_ClassDsp2.exe
+D:\代码\计算机科学与技术\CH05_CA_ClassDsp2\CH05_CA_ClassDsp2\obj\Debug\CH05_CA_ClassDsp2.pdb

@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\bin\Debug\CH10_CA_BoxTester.exe.config
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\bin\Debug\CH10_CA_BoxTester.exe
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\bin\Debug\CH10_CA_BoxTester.pdb
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\obj\Debug\CH10_CA_BoxTester.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\obj\Debug\CH10_CA_BoxTester.exe
+D:\代码\计算机科学与技术\CH10_CA_BoxTester\CH10_CA_BoxTester\obj\Debug\CH10_CA_BoxTester.pdb

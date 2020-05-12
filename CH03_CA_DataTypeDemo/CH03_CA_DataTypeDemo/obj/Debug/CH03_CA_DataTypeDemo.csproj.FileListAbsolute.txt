@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\bin\Debug\CH03_CA_DataTypeDemo.exe.config
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\bin\Debug\CH03_CA_DataTypeDemo.exe
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\bin\Debug\CH03_CA_DataTypeDemo.pdb
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\obj\Debug\CH03_CA_DataTypeDemo.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\obj\Debug\CH03_CA_DataTypeDemo.exe
+D:\代码\计算机科学与技术\CH03_CA_DataTypeDemo\CH03_CA_DataTypeDemo\obj\Debug\CH03_CA_DataTypeDemo.pdb

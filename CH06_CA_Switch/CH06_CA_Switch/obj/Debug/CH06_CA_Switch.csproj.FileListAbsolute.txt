@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\bin\Debug\CH06_CA_Switch.exe.config
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\bin\Debug\CH06_CA_Switch.exe
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\bin\Debug\CH06_CA_Switch.pdb
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\obj\Debug\CH06_CA_Switch.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\obj\Debug\CH06_CA_Switch.exe
+D:\代码\计算机科学与技术\CH06_CA_Switch\CH06_CA_Switch\obj\Debug\CH06_CA_Switch.pdb

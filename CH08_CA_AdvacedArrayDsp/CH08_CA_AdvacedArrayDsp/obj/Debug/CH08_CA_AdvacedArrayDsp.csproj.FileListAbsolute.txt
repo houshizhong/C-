@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\bin\Debug\CH08_CA_AdvacedArrayDsp.exe.config
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\bin\Debug\CH08_CA_AdvacedArrayDsp.exe
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\bin\Debug\CH08_CA_AdvacedArrayDsp.pdb
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\obj\Debug\CH08_CA_AdvacedArrayDsp.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\obj\Debug\CH08_CA_AdvacedArrayDsp.exe
+D:\代码\计算机科学与技术\CH08_CA_AdvacedArrayDsp\CH08_CA_AdvacedArrayDsp\obj\Debug\CH08_CA_AdvacedArrayDsp.pdb

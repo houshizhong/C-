@@ -1,0 +1,6 @@
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\bin\Debug\CH02_CA_IO.exe.config
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\bin\Debug\CH02_CA_IO.exe
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\bin\Debug\CH02_CA_IO.pdb
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\obj\Debug\CH02_CA_IO.csprojAssemblyReference.cache
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\obj\Debug\CH02_CA_IO.exe
+D:\代码\计算机科学与技术\CH02_CA_IO\CH02_CA_IO\obj\Debug\CH02_CA_IO.pdb
